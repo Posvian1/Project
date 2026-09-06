@@ -136,5 +136,3 @@ line-model/
 
 ---
 
-   git clone https://github.com/Posvian1/Project.git
-   cd line-model
