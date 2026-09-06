@@ -129,7 +129,6 @@
 | **Recall** | 0.7770 |
 | **Accuracy** | 0.9489 |
 
-![ROC-кривая](ROC_curve.png)
 
 ---
 
