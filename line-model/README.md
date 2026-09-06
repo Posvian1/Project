@@ -6,6 +6,7 @@
 ---
 
 ## 📁 Структура проекта
+
 line-model/
 ├── line-model.ipynb              # основной Jupyter Notebook с анализом и моделями
 ├── README.md                     # этот файл
